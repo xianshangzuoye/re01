@@ -1,0 +1,203 @@
+body {
+    background-image: url(./背景.jpg);
+    background-size: cover;
+    background-position:relative;
+}
+#root {
+    width: 68%;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0px auto;  
+}
+.title {
+    background-color: white;
+    text-align: center;
+    position: sticky;
+    top: 0%;
+    left:10.5%;
+    width: 80%;
+}
+.pri{
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 10%;
+
+    left: 43%;
+}
+.say_name {
+    color: rgb(1, 164, 1);
+}
+
+
+.p1 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container1 {
+    display: none;
+}.name-container1:hover .image-container1 {
+    display: block;
+}
+.p2 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container2 {
+    display: none;
+}.name-container2:hover .image-container2 {
+    display: block;
+}
+.p3 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container3 {
+    display: none;
+}.name-container3:hover .image-container3 {
+    display: block;
+}
+
+.p4 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container4 {
+    display: none;
+}.name-container4:hover .image-container4 {
+    display: block;
+}
+
+.p5 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container5 {
+    display: none;
+}.name-container5:hover .image-container5 {
+    display: block;
+}
+
+.p6 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container6 {
+    display: none;
+}.name-container6:hover .image-container6 {
+    display: block;
+}
+
+.p7 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container7 {
+    display: none;
+}.name-container7:hover .image-container7 {
+    display: block;
+}
+
+.p8 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container8 {
+    display: none;
+}.name-container8:hover .image-container8 {
+    display: block;
+}
+
+.p9 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container9 {
+    display: none;
+}.name-container9:hover .image-container9 {
+    display: block;
+}
+
+.p10 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container10 {
+    display: none;
+}.name-container10:hover .image-container10 {
+    display: block;
+}
+.p11 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container11 {
+    display: none;
+}.name-container11:hover .image-container11 {
+    display: block;
+}
+
+.p12 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container12 {
+    display: none;
+}.name-container12:hover .image-container12 {
+    display: block;
+}
+
+.p13 {
+    width: 206px;
+    height: auto;
+    position: absolute;
+    left : 0;
+}
+.image-container13 {
+    display: none;
+}.name-container13:hover .image-container13 {
+    display: block;
+}
+.p14 {
+    width: 206px;
+    height: 150px;
+    position: absolute;
+    left : 0;
+}
+.image-container14 {
+    display: none;
+}.name-container14:hover .image-container14 {
+    display: block;
+}
